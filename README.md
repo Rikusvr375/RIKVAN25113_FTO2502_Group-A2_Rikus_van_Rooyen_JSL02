@@ -16,6 +16,11 @@ This project involves implementing a JavaScript-based task entry system where us
 - YouTube  
 - ChatGPT  
 
+## Features Used and Implemented
+- A feature that asks for a certain project name, description, and whether the project classifies as a **TODO**, **DOING**, or **DONE** category.  
+- If the user indicates that the project is to be completed but is not yet marked as done in both tasks, a message will pop up saying:  
+  *"There are no projects done yet—get to work!"*
+
 ## Expected Outcome
 
 A functional task entry system that ensures accurate data collection, validation, and structured storage while maintaining clean and well-documented code for easy future modifications.
